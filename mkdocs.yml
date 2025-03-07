@@ -1,6 +1,7 @@
 site_name: My Documentation
 theme:
-  name: material
+  name: windmill
 nav:
   - Home: index.md
+  - About Us: about_us.md
 

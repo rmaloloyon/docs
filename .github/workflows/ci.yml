@@ -20,7 +20,7 @@ jobs:
 
       - name: Install MkDocs and dependencies
         run: |
-          pip install mkdocs mkdocs-material  # Make sure mkdocs-material or the theme you're using is installed
+          pip install mkdocs mkdocs-material mkdocs-windmill # Make sure mkdocs-material or the theme you're using is installed
 
       - name: Build and deploy MkDocs
         run: |
