@@ -1,8 +1,0 @@
-site_name: My Documentation
-theme:
-  name: windmill
-nav:
-  - Home: index.html
-  - About Us: search.html
-  - Page: 404.html
-
